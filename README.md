@@ -22,3 +22,44 @@
 
 ## 📂 Project Structure
 
+ethical-security-hub/
+├── index.html
+├── login.html
+├── signup.html
+├── css/
+│ └── styles.css
+├── js/
+│ └── main.js
+└── assets/
+└── (images, icons, etc.)
+
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript  
+- **Authentication**: Basic form-based (no backend yet)  
+- **Future Plans**: Add backend (Node.js or Python), database, user dashboard, and interactive labs
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/alshahariahossen01/ethical-security-hub.git
+
+   🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+
+---
+
+
+Made with ❤️
+
+ "alshahariahossen01"` 
+Let me know if you'd like help adding a backend (Node.js, Firebase, etc.), or want a version in another language.
+
