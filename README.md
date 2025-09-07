@@ -20,6 +20,7 @@
 
 ---
 
+
 ## 📂 Project Structure
 
 ethical-security-hub/
@@ -50,7 +51,8 @@ ethical-security-hub/
    ```bash
    git clone https://github.com/alshahariahossen01/ethical-security-hub.git
 
-   🤝 Contributing
+   
+🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
